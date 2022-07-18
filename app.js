@@ -1,6 +1,9 @@
 let timeDisplay = document.querySelector(".timerDisplay");
 let start = document.getElementById("startTimer");
 const stop = document.getElementById("resetTimer");
+
+
+
 let eyyup;
 let [ms, s, min] = [0, 0, 0];
 
